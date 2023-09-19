@@ -1,0 +1,1 @@
+This project enables multi user synchronization using fireproof and makes use of partykit to send some credentials. The main aim is to use the geolocation API to continue push positional data to other concerned user
